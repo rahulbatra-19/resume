@@ -5,7 +5,7 @@ body{
 #body-header
 {
     height: 65vh;
-    background-image: url(/images/macbook_mouse.jpg);
+    background-image: url(https://i.ibb.co/6b6MVKM/macbook-mouse.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -13,6 +13,14 @@ body{
     padding-top: 1.2rem;
 }
 
+
+/* 
+https://ibb.co/2vP1DyQ
+https://ibb.co/qyGH3C5
+https://ibb.co/DQ0JXwR
+https://ibb.co/9T0JVN5
+https://ibb.co/5RCZh03
+https://ibb.co/dkSMtSJ */
 
 /* horizontallist */
 .mobile-nav{
